@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<h1 align="center">🎚️ Preamp GainBooster</h1>
+<h1 align="center">🎚️ Preamp GainBooster Microphone</h1>
 <p align="center">
   <strong>Virtual microphone preamp for Windows</strong><br/>
   Boost your mic gain digitally • Use in Discord, Zoom, OBS & any app
