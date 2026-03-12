@@ -19,7 +19,8 @@
 </p>
 
 ---
-
+<img width="1221" height="1277" alt="image" src="https://github.com/user-attachments/assets/5515ee3b-3ad0-4e12-af21-925890937fe7" />
+---
 ## 🎯 What is this?
 
 **Preamp GainBooster** is a small Windows app that acts as a **digital preamp** for your microphone.  
@@ -135,19 +136,6 @@ That’s it. 🎉
 | **Monitor sounds bad / robotic** | Monitor runs at 48 kHz for compatibility. Make sure the monitor device is your **HEADPHONES**, not CABLE Input. |
 | **Python not found** | Run `install_and_run.bat`; it will try to install Python via **winget**. Or install [Python](https://www.python.org/downloads/) manually and tick “Add Python to PATH”. |
 
----
-
-## 🖼️ Screenshot
-
-<img width="1221" height="1277" alt="image" src="https://github.com/user-attachments/assets/5515ee3b-3ad0-4e12-af21-925890937fe7" />
-
-
-| What you’ll see |
-|-----------------|
-| Dark purple “cyberpunk” theme |
-| Device lists: Input (mic), Output (CABLE Input), Monitor (headphones) |
-| Gain slider + dB value + presets (Save/Load/Delete) |
-| Start/Stop preamp, language selector, tray & startup options |
 
 ---
 ## 👤 Author
