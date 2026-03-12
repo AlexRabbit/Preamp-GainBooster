@@ -20,7 +20,7 @@
 
 ---
 <img width="1221" height="1277" alt="image" src="https://github.com/user-attachments/assets/5515ee3b-3ad0-4e12-af21-925890937fe7" />
----
+ 
 ## 🎯 What is this?
 
 **Preamp GainBooster** is a small Windows app that acts as a **digital preamp** for your microphone.  
